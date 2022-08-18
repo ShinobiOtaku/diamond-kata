@@ -1,0 +1,29 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    },
+    "A": {
+      "commandName": "Project",
+      "commandLineArgs": "A"
+    },
+    "B": {
+      "commandName": "Project",
+      "commandLineArgs": "B"
+    },
+    "C": {
+      "commandName": "Project",
+      "commandLineArgs": "C"
+    },
+    "H": {
+      "commandName": "Project",
+      "commandLineArgs": "H"
+    },
+    "John": {
+      "commandName": "Project",
+      "commandLineArgs": "John"
+    }
+  }
+}
