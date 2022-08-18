@@ -31,3 +31,9 @@ It may be helpful visualise the whitespace in your rendering like this:
     C _ _ _ C
     _ B _ B _
     _ _ A _ _
+
+### My Solution
+
+It seemed like a good opportunity to play with property based testing in C#. Implemented in a test first approach.
+
+There are a few launch settings set up so you can directly test it inside visual studio without having to look for the exe.
